@@ -1,4 +1,4 @@
-# Stydy Pose Estimation
+# Pose Estimation
 
 
 ### 참고 깃허브 링크
